@@ -12,8 +12,8 @@ const samePerson = person;
 
 person.age++;
 person.country = 'FR';
-console.log(person);
 
+console.log(person);
 console.log(clone1);
 console.log(clone2);
 console.log(samePerson);
